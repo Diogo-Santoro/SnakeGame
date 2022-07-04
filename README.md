@@ -1,2 +1,2 @@
-# TextEditor
-A text editor made in Java.
+# SnakeGame
+A simple Snake Game made in Java.
